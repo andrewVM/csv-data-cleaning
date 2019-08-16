@@ -29,3 +29,5 @@ for row in data:
 
     writer = csv.writter(open(outfile, 'w'), deli)
 
+#adding new items
+#rstyjuhi
